@@ -1,23 +1,23 @@
-<h1 align="center">Hi 👋, I'm Jake</h1>
+<div align="center">
 
-<h3 align="center">💻 Newbie Developer</h3>
-<h3 align="center">🚀 Building anything I can imagine</h3>
+# Hi 👋, I'm Jake
 
-<p align="center">
-  <a href="https://github.com/KaJe05">
-    <img src="https://komarev.com/ghpvc/?username=KaJe05&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+### 💻 Newbie Developer  
+### 🚀 Building anything I can imagine
+
+<img src="https://komarev.com/ghpvc/?username=KaJe05&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <img src="https://skillicons.dev/icons?i=php,html,css,bootstrap,mysql,js,git,github,vscode" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Visual%20Basic-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -28,7 +28,9 @@
 
 <div align="center">
 
-### 🚀 Current Project
+## 🚀 Current Project
+
+### ORVSystem
 
 Obligation Request Voucher Management System for LGUs
 
@@ -42,7 +44,7 @@ Obligation Request Voucher Management System for LGUs
 
 <div align="center">
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 <a href="mailto:mylagas05@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
