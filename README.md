@@ -1,5 +1,3 @@
-#KaJe05
-
 <h1 align="center">Hi 👋, I'm Jake</h1>
 <h3 align="center">"Newbie"</h3>
 <h3 align="center">I want to build anything hahaha 🚀</h3>
