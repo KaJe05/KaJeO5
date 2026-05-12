@@ -30,8 +30,6 @@
 
 ### 🚀 Current Project
 
-## ORVSystem
-
 Obligation Request Voucher Management System for LGUs
 
 <a href="https://github.com/KaJe05/ORVSystem">
