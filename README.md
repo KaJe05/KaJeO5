@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Jake
-
 <img src="https://komarev.com/ghpvc/?username=KaJe05&label=Profile%20Views&color=0e75b6&style=flat" />
+
+# Hi 👋, I'm Jake
 
 ### 💻 Newbie Developer  
 ### 🚀 Building anything I can imagine
