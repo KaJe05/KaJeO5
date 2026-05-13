@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Jake
 
-#<img src="https://komarev.com/ghpvc/?username=KaJe05&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=KaJe05&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ### 💻 Newbie Developer  
 ### 🚀 Building anything I can imagine
